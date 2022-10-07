@@ -1,0 +1,6 @@
+class add {
+    
+    add(long a, long b){
+        return a+b;
+    }
+}
